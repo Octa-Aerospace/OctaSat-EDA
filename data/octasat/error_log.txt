@@ -1,0 +1,56 @@
+bad operand type for unary -: 'NoneType' at 15/02, 15:55:06
+
+bad operand type for unary -: 'NoneType' at 15/02, 15:56:28
+
+bad operand type for unary -: 'NoneType' at 15/02, 15:56:31
+
+bad operand type for unary -: 'NoneType' at 15/02, 16:23:37
+
+bad operand type for unary -: 'NoneType' at 15/02, 16:59:01
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:01:21
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:24:52
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:27:23
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:30:08
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:31:00
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:32:23
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:34:01
+
+bad operand type for unary -: 'NoneType' at 15/02, 17:34:31
+
+bad operand type for unary -: 'NoneType' at 15/02, 18:13:05
+
+bad operand type for unary -: 'NoneType' at 15/02, 18:29:38
+
+bad operand type for unary -: 'NoneType' at 15/02, 19:43:59
+
+bad operand type for unary -: 'NoneType' at 15/02, 19:57:31
+
+bad operand type for unary -: 'NoneType' at 15/02, 20:13:28
+
+bad operand type for unary -: 'NoneType' at 15/02, 20:27:25
+
+bad operand type for unary -: 'NoneType' at 15/02, 20:29:37
+
+bad operand type for unary -: 'NoneType' at 15/02, 20:37:08
+
+bad operand type for unary -: 'NoneType' at 15/02, 21:13:02
+
+bad operand type for unary -: 'NoneType' at 15/02, 22:08:45
+
+bad operand type for unary -: 'NoneType' at 15/02, 22:15:11
+
+bad operand type for unary -: 'NoneType' at 15/02, 22:37:33
+
+bad operand type for unary -: 'NoneType' at 15/02, 22:38:52
+
+bad operand type for unary -: 'NoneType' at 15/02, 22:41:14
+
+bad operand type for unary -: 'NoneType' at 15/02, 23:37:07
+
